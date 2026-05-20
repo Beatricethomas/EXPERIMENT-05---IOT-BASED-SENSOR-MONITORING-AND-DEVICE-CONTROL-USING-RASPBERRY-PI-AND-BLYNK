@@ -51,7 +51,10 @@ Raspberry Pi connects to the internet through Wi-Fi and communicates with the Bl
  
 ### **IR Sensor:**  
   An **Infrared Sensor (IR Sensor)** is an electronic device used to detect the presence of objects by using **infrared light**. It consists mainly of an **IR transmitter (IR LED)** and an **IR receiver (photodiode or phototransistor)**. The transmitter emits infrared rays, and when these rays strike an object, they are reflected back and detected by the receiver. Based on this reflection, the sensor determines whether an object is present or absent. IR sensors are widely used in applications such as **obstacle detection, automatic doors, security systems, and line-following robots** due to their fast response and simple operation.
-<img width="422" height="204" alt="image" src="https://github.com/user-attachments/assets/b6ff30ce-190e-4e6e-a608-4d8ee9b6985d" />
+
+
+<img width="1536" height="1024" alt="ChatGPT Image May 20, 2026, 03_12_48 PM - Copy" src="https://github.com/user-attachments/assets/7050c36d-55a6-46b4-9034-6b0209d34499" />
+
 ### FIGURE-03 IR Sensor
 
 ### **LDR Sensor:**  
